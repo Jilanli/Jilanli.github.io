@@ -4,5 +4,5 @@ title: About
 
 ---
 
-Some info 
+#Some info 
 Maybe I will always be a student.
