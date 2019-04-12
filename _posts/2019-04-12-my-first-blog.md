@@ -11,7 +11,9 @@ tags:
 
 This is my first blog. 
 Studying from other's blog on the internet has been my usual way to learn CS since I was in unversity.
-No matter whether it is a good way to learn, I love it. Thanks to those blogers, there are so many　problemｓ　Ｉ　ｓｌｏｖｅｄ．
+No matter whether it is a good way to learn, I love it. Thanks to those blogers, there are so many　problems I sloved.
+So here comes a thought in my head, why not publish my own blog to share my experience and methods to handle problems.
+
 If you dont't have your own blog you can clone this repository and put your articles in a `_posts` folder.
 If you already have your own blog then I think you can clone this repository and copy-paste content keeping your `_posts` folder.
 
